@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Instagram Clean
+// @name         Instagram Clean Personal
 // @namespace    urn:instagram-clean
 // @version      1.0.0
 // @description  Locally hide Reels and optional recommendation surfaces on Instagram.
